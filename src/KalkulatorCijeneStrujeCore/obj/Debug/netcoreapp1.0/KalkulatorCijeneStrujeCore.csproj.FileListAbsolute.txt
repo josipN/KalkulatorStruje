@@ -1,0 +1,9 @@
+D:\Materijali\Josip\KalkulatorCijeneStruje\KalkulatorCijeneStrujeCore\src\KalkulatorCijeneStrujeCore\bin\Debug\netcoreapp1.0\KalkulatorCijeneStrujeCore.deps.json
+D:\Materijali\Josip\KalkulatorCijeneStruje\KalkulatorCijeneStrujeCore\src\KalkulatorCijeneStrujeCore\bin\Debug\netcoreapp1.0\KalkulatorCijeneStrujeCore.runtimeconfig.json
+D:\Materijali\Josip\KalkulatorCijeneStruje\KalkulatorCijeneStrujeCore\src\KalkulatorCijeneStrujeCore\bin\Debug\netcoreapp1.0\KalkulatorCijeneStrujeCore.runtimeconfig.dev.json
+D:\Materijali\Josip\KalkulatorCijeneStruje\KalkulatorCijeneStrujeCore\src\KalkulatorCijeneStrujeCore\bin\Debug\netcoreapp1.0\KalkulatorCijeneStrujeCore.dll
+D:\Materijali\Josip\KalkulatorCijeneStruje\KalkulatorCijeneStrujeCore\src\KalkulatorCijeneStrujeCore\obj\Debug\netcoreapp1.0\KalkulatorCijeneStrujeCore.csprojResolveAssemblyReference.cache
+D:\Materijali\Josip\KalkulatorCijeneStruje\KalkulatorCijeneStrujeCore\src\KalkulatorCijeneStrujeCore\obj\Debug\netcoreapp1.0\KalkulatorCijeneStrujeCore.AssemblyInfo.cs
+D:\Materijali\Josip\KalkulatorCijeneStruje\KalkulatorCijeneStrujeCore\src\KalkulatorCijeneStrujeCore\bin\Debug\netcoreapp1.0\KalkulatorCijeneStrujeCore.pdb
+D:\Materijali\Josip\KalkulatorCijeneStruje\KalkulatorCijeneStrujeCore\src\KalkulatorCijeneStrujeCore\obj\Debug\netcoreapp1.0\KalkulatorCijeneStrujeCore.dll
+D:\Materijali\Josip\KalkulatorCijeneStruje\KalkulatorCijeneStrujeCore\src\KalkulatorCijeneStrujeCore\obj\Debug\netcoreapp1.0\KalkulatorCijeneStrujeCore.pdb

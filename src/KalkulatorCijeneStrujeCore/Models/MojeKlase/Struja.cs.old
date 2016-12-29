@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace KalkulatorCijeneStrujeCore.Models.MojeKlase
+{
+    public class Struja
+    {
+        public int ID { get; set; }
+        public double PotrosnjaSkupa { get; set; }
+        public double PotrosnjaJeftina { get; set; }
+        public double PDV { get; set; }
+        public double Naknada  { get; set; }
+    }
+}

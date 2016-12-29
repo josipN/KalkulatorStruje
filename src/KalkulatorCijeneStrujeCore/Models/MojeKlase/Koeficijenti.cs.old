@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace KalkulatorCijeneStrujeCore.Models.MojeKlase
+{
+    public class Koeficijenti
+    {
+        public double JeftiniKoeficijent { get; set; } = 1.86;
+        public double SkupiKoeficijent { get; set; } = 3.69;
+      
+    }
+}

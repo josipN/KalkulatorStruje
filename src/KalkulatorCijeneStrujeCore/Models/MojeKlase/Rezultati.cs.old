@@ -1,0 +1,27 @@
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace KalkulatorCijeneStrujeCore.Models.MojeKlase
+{
+    public class Rezultati
+    {
+        public int ID { get; set; }
+        //public string UserID { get; set; }
+
+           
+         //public string UID { get; set; }
+        public string ApplicationUserId { get; set; }
+        //public string ApplicationUserId { get; set; }
+        public double IznosPotrosnje { get; set; }
+        public Koeficijenti Koeficijenti { get; set; }
+        public Struja Struja { get; set; }
+        public virtual ApplicationUser ApplicationUser { get; set; }
+        public DateTime DateTime { get; } = DateTime.Now;
+
+    }
+}
